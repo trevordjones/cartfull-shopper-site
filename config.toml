@@ -2,3 +2,32 @@ baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'Cartfull Shopper'
 theme = 'hugo-fresh'
+
+[params.font]
+name = "Open Sans"
+sizes = [ 400, 600 ]
+
+[params.hero]
+title = "View Carts. Help Shoppers."
+subtitle = "Help manage your customers carts and increase sales."
+image = "worker.svg"
+
+[params.section2]
+title = "Help your customers."
+subtitle = "Get what they want."
+
+  [[params.section2.features]]
+  title = "Intuitive interface"
+  text = "A simple and clean design."
+  icon = "laptop-cloud"
+
+  [[params.section2.features]]
+  title = "Complete purchases"
+  text = "Help your customers select what they want and complete their order."
+  icon = "laptop-cloud"
+
+[params.footer]
+logo = "shopping-cart.png"
+
+[params.footer.quicklinks.column1]
+title = "Cartfull Shopper"
