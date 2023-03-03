@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://trevordjones.github.io/cartfull-shopper-site'
 languageCode = 'en-us'
 title = 'Cartfull Shopper'
 theme = 'hugo-fresh'
