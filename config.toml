@@ -1,4 +1,5 @@
 baseURL = 'https://trevordjones.github.io/cartfull-shopper-site'
+canonifyURLs = true
 languageCode = 'en-us'
 title = 'Cartfull Shopper'
 theme = 'hugo-fresh'
